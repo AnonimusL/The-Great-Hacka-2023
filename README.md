@@ -2,4 +2,4 @@
 https://www.thegreathacka.com/ 
 
 # Dataset 
-- https://www.kaggle.com/account/login?returnUrl=%2Fcompetitions%2Fpredikcija-koncetracije-polena-ambrozije-u-vazduhu%2Fdata 
+- https://www.kaggle.com/competitions/predikcija-koncetracije-polena-ambrozije-u-vazduhu/data 
